@@ -6,3 +6,4 @@ scikit-learn
 ipykernel
 joblib
 Flask
+gunicorn
