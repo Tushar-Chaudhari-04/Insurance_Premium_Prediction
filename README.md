@@ -73,13 +73,13 @@ The predictive model provides accurate insurance premium predictions based on cu
 
 ```bash
 # Clone the repository
-$ git clone <repository-link>
+$ git clone https://github.com/Tushar-Chaudhari-04/Insurance_Premium_Prediction.git
 
 # Install required dependencies
 $ pip install -r requirements.txt
 
 # Run the Jupyter Notebook or Python script
-$ python <script_name>.py
+$ python app.py
 ```
 
 ## Contributors
